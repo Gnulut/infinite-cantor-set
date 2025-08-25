@@ -33,6 +33,12 @@ cmake -S . -B build
 cmake --build build
 ```
 
+## Future Target
+- Zoom out capabilities (finite)
+- Zoom out capabilites (infinite)
+- Move horizontal
+- Easier/intuitive controls
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
